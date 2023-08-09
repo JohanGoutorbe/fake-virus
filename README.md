@@ -41,3 +41,6 @@ Please remember that using actual malicious software or causing harm to computer
 If you have any questions or concerns regarding this repository or its contents, please feel free to contact me.
 
 Enjoy exploring the world of batch scripting in a safe and harmless environment!
+
+***
+Disclaimer: This repository and its contents are not associated with any malicious activities. Use these scripts responsibly and at your own risk. The owner and contributors of this repository are not responsible for any misuse or harm caused by these scripts.
