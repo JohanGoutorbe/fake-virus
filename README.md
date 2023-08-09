@@ -12,21 +12,20 @@ This repository contains a variety of batch scripts, each demonstrating a differ
 
 ## Usage
 
-    Clone the repository to your local machine using the following command:
+Clone the repository to your local machine using the following command:
 
-    bash
-
-git clone https://github.com/your-username/fake-viruses-batch.git
+```
+git clone https://github.com/JohanGoutorbe/fake-virus.git
+```
 
 Navigate to the cloned directory:
+```
+cd fake-viruses
+```
 
-bash
+Browse through the different batch scripts in the repository. Open them using a text editor to view the code.
 
-    cd fake-viruses-batch
-
-    Browse through the different batch scripts in the repository. Open them using a text editor to view the code.
-
-    To run a script, simply double-click on its filename. A command prompt window will open, and the script will execute its predefined actions, which are typically humorous or attention-catching.
+To run a script, simply double-click on its filename. A command prompt window will open, and the script will execute its predefined actions, which are typically humorous or attention-catching.
 
 
 ## Contributions
