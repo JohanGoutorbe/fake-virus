@@ -4,7 +4,7 @@ Welcome to the Fake-Viruses Batch Repository! Here you will find a collection of
 
 ## Disclaimer
 
-I, [Your Name], want to clarify that I had nothing to do with the creation or distribution of actual malicious software. The scripts in this repository are entirely harmless and are meant to showcase basic batch programming techniques rather than causing any harm to your computer or data.
+I, Johan Arakelian Goutorbe, want to clarify that I had nothing to do with the creation or distribution of actual malicious software. The scripts in this repository are entirely harmless and are meant to showcase basic batch programming techniques rather than causing any harm to your computer or data.
 
 ## What's Inside
 
@@ -44,4 +44,4 @@ Enjoy exploring the world of batch scripting in a safe and harmless environment!
 
 
 ***
-**Disclaimer:* This repository and its contents are not associated with any malicious activities. Use these scripts responsibly and at your own risk. The owner and contributors of this repository are not responsible for any misuse or harm caused by these scripts.*
+*Disclaimer: This repository and its contents are not associated with any malicious activities. Use these scripts responsibly and at your own risk. The owner and contributors of this repository are not responsible for any misuse or harm caused by these scripts.*
