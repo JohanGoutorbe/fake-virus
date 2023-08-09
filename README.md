@@ -38,7 +38,7 @@ Please remember that using actual malicious software or causing harm to computer
 
 ## Contact
 
-If you have any questions or concerns regarding this repository or its contents, please feel free to contact me at on my professional email address: contact@johan-goutorbe.fr
+If you have any questions or concerns regarding this repository or its contents, please feel free to contact me on my professional email address: contact@johan-goutorbe.fr
 
 Enjoy exploring the world of batch scripting in a safe and harmless environment!
 
